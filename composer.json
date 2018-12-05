@@ -1,0 +1,27 @@
+{
+    "name": "omidmm/om-module-admin",
+    "description": "webkar",
+    "keywords": ["yii2", "framework", "advanced", "project template","webkar.net","webkar system"],
+    "homepage": "http://www.webkar.net",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/omidmm/webkar/issues?state=open",
+        "forum": "http://www.webkar.net/forum/",
+        "wiki": "http://www.webkar.net/wiki",
+        "irc": "irc://irc.freenode.net/webkar",
+        "source": "https://github.com/omidmm/webkar"
+    },
+    "require": {
+    
+    },
+    "require-dev": {
+    },
+
+
+"repositories": [{
+    "type": "composer"
+  }]
+
+
+}
